@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
- <img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1QwuE1a0SSm4q5J1DcTg5X&ust=1679928242511000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLC38cLq-f0CFQAAAAAdAAAAABAE">
+ <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on **Programing languages C++, Python ,JAVA**
 
 - 🌱 I’m currently learning **concepts of DSA and OOPS**
