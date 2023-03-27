@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **me.amandeep.29@gmail.com**
+- 📫 How to reach me **iamandeepsingh.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
