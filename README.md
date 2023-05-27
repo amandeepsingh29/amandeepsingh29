@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **concepts of DSA and OOPS**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m working on **Autonomous Vehicles**
 
 - 🤝 I’m looking for help with **Game development**
 
-- 💬 Ask me about **AI/ML**
+- 💬 Ask me about **Machine Learning And Image sensing**
 
 - 📫 How to reach me **me.amandeep.29@gmail.com**
 
