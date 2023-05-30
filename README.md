@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman29&" alt="iaman29" /></p>
 
-<img align="left" alt="coding" width="300" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
+<img align="right" alt="coding" width="300" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
