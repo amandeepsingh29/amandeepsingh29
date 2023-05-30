@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="centre" alt="coding" width="300" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
+<img align="centre" alt="coding" width="400" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaman29&label=Profile%20views&color=0e75b6&style=flat" alt="iaman29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaman29" alt="iaman29" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amandeep2903" target="blank"><img src="https://img.shields.io/twitter/follow/amandeep2903?logo=twitter&style=for-the-badge" alt="amandeep2903" /></a> </p>
 
-- 😎 I’m currently working on [Data Structures And Alog's](https://github.com/iaman29/DSA)
+- 😎 I’m currently working on [Data Structures And Algo's](https://github.com/iaman29/DSA)
 
 - 🤝 I’m looking for help with **Autonomous Vehicles, image sensing**
 
@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman29&" alt="iaman29" /></p>
 
-<img align="right" alt="coding" width="300" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
+<img align="right" alt="coding" width="200" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
