@@ -72,7 +72,7 @@ Mac                      27 hrs 1 min        ███████████�
 ```
 
 **I Mostly Code in Python** 
-
+<!-- 
 ```text
 Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
 HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
@@ -88,3 +88,4 @@ CSS                      1 repo              ██░░░░░░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman29&" alt="iaman29" /></p>
 
 <img align="right" alt="coding" width="200" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
+ -->
