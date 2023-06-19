@@ -83,7 +83,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman29&show_icons=true&locale=en&layout=compact" alt="iaman29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaman29&show_icons=true&locale=en" alt="iaman29" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaman29&show_icons=true&locale=en" alt="iaman29" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman29&" alt="iaman29" /></p>
 
