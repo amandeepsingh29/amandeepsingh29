@@ -10,7 +10,7 @@
 
 - 😎 I’m currently working on [Data Structures And Algo's](https://github.com/iaman29/DSA)
 
-- 🤝 I’m looking for help with **Autonomous Vehicles, image sensing**
+- 🤝 I’m looking for help with **Image Processing**
 
 - 😍 I’m looking to collaborate on [Web Automation](https://github.com/iaman29/WEB_AUTOMATION)
 
