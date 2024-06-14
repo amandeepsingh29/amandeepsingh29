@@ -2,19 +2,19 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iaman29&label=Profile%20views&color=0e75b6&style=flat" alt="iaman29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeepsingh29&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepsingh29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaman29" alt="iaman29" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandeepsingh29" alt="amandeepsingh29" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amandeep2903" target="blank"><img src="https://img.shields.io/twitter/follow/amandeep2903?logo=twitter&style=for-the-badge" alt="amandeep2903" /></a> </p>
 
-- 😎 I’m currently working on [Data Structures And Algo's](https://github.com/iaman29/DSA)
+- 😎 I’m currently working on [Data Structures And Algo's](https://github.com/amandeepsingh29/DSA)
 
 - 🤝 I’m looking for help with **Image Processing**
 
-- 😍 I’m looking to collaborate on [Web Automation](https://github.com/iaman29/WEB_AUTOMATION)
+- 😍 I’m looking to collaborate on [Web Automation](https://github.com/amandeepsingh29/WEB_AUTOMATION)
 
-- 👀 I’m currently learning [about different Python Libraries](https://github.com/iaman29?tab=repositories)
+- 👀 I’m currently learning [about different Python Libraries](https://github.com/amandeepsingh29?tab=repositories)
 
 - 🥳 Ask me about **Machine Learning**
 
@@ -79,13 +79,13 @@ HTML                     3 repos             ███████░░░░�
 Shell                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
-<!-- <p><a href="https://www.buymeacoffee.com/iaman29"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iaman29" /></a></p><br><br> -->
+<!-- <p><a href="https://www.buymeacoffee.com/amandeepsingh29"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amandeepsingh29" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaman29&show_icons=true&locale=en&layout=compact" alt="iaman29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandeepsingh29&show_icons=true&locale=en&layout=compact" alt="amandeepsingh29" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaman29&show_icons=true&locale=en" alt="iaman29" /></p>-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeepsingh29&show_icons=true&locale=en" alt="amandeepsingh29" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaman29&" alt="iaman29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandeepsingh29&" alt="amandeepsingh29" /></p>
 
 <img align="right" alt="coding" width="200" src="https://c.tenor.com/PQc4WMULi28AAAAC/slothilda-sloth.gif">
  
