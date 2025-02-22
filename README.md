@@ -1,6 +1,8 @@
 <p align="center">
   <img width="600" alt="Banner" src="https://github.com/amandeepsingh29/amandeepsingh29/Asset.jpeg">
 </p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amandeepsinghx/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@me.amandeep.29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandeep29032004@gmail.com) 
 
