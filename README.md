@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img width="1000" alt="Banner" src="https://github.com/amandeepsingh29/amandeepsingh29/blob/main/banner.png">
-</p> -->
+<p align="center">
+  <img width="1000" alt="Banner" src="https://github.com/amandeepsingh29/amandeepsingh29/blob/main/medium_banner.png">
+</p> 
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I4bGx4cXQzODh1cjJkNmloaDhmODNsdjZzeW5icndpZjRydTdvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" width="300" alt="cool dev gif">
