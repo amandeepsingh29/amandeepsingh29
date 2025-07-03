@@ -13,17 +13,28 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me
 
 <a href="https://linkedin.com/in/amandeepsinghx/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://amandeepxsingh.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
 </a>
-<a href="mailto:amandeep29032004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+<a href="mailto:amandeep.singh.dsc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
+<a href="https://amandeepsingh.tech">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
+</a>
+<a href="https://leetcode.com/amandeepsingh29/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
 
 ---
 
