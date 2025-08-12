@@ -42,10 +42,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-<!-- Keep your original tech stack badges here -->
-<!-- Add this inside <div align="center"> if too long -->
 
 <div align="center">
 
