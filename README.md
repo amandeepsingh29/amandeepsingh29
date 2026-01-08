@@ -126,18 +126,21 @@
 📝 [Hallucination of Hallucination](https://medium.com/@amandeepxsingh/hallucination-of-hallucination-0a60d18eccef)
 
 ---
+<!--
 
 ## 📊 GitHub Stats
 
-//<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical" />
 
-//##---
+##---
 
-//## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-//<img src="https://github-profile-trophy.vercel.app/?username=amandeepsingh29&theme=radical&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=amandeepsingh29&theme=radical&margin-w=8&row=1&column=6" />
 
-//---
+---
+
+-->
 
 ## 💬 Fun Facts
 
