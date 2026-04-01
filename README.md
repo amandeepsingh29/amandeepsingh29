@@ -26,11 +26,8 @@
 <a href="mailto:amandeep.singh.dsc@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://amandeepsingh.tech">
+<a href="https://amandeepxsingh.tech">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
-</a>
-<a href="https://leetcode.com/amandeepsingh29/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
