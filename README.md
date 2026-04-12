@@ -118,22 +118,7 @@
 <a href="https://amandeepxsingh.tech">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
 </a>
----
 
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical" />
-
-##---
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=amandeepsingh29&theme=radical&margin-w=8&row=1&column=6" />
-
----
-
--->
 
 ## 💬 Fun Facts
 
@@ -144,9 +129,9 @@
 
 ---
 
-<h2>✍️ Dev Quote</h2>
+<h2> Quote Close to My ❤️ </h2>
 
-<em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+<em>"Good Things Take Time"</em>  
 <strong>— Cory House</strong>
 
 ...
