@@ -111,8 +111,6 @@
 🦀 Learning Rust for High-Frequency Trading  
 ✍️ Writing according to my curiosity levels
 
----
-
 ## Must Visit
 
 <a href="https://amandeepxsingh.tech">
@@ -127,14 +125,9 @@
 🤝 I use AI as a co-pilot, not a replacement  
 ⚙️ I automate my life using `n8n` and `Python`
 
----
-
 <h2> Quote Close to My ❤️ </h2>
 
 <em>"Good Things Take Time"</em>  
-<strong>— Cory House</strong>
-
-...
 
 
 <p align="center">
