@@ -6,9 +6,9 @@
 
 ## 👋 Hey there! I'm Amandeep  
 
-🚀 Software Developer  
-🔭 Currently working on: **Agents and System Design**  
-🌱 Exploring: **RUST and Redis**  
+🚀 Software Developer 👀
+🔭 Currently working on: **Agents and System Design** 🥸  
+🌱 Exploring: **RUST and Redis** 🤭
 🧠 Obsessed with: **Vibe 😭**
 
 ---
