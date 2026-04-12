@@ -6,7 +6,7 @@
 
 ## 👋 Hey there! I'm Amandeep  
 
-🚀 AI Researcher | Full Stack Developer | Robotics Enthusiast  
+🚀 Software Developer  
 🔭 Currently working on: **DSA | AGENTS | VIBE**  
 🌱 Exploring: **Transformers, RUST for HFT, AgentOps**  
 🧠 Obsessed with: **ML cognition, dev productivity, futuristic web apps**
