@@ -7,9 +7,9 @@
 ## 👋 Hey there! I'm Amandeep  
 
 🚀 Software Developer  
-🔭 Currently working on: **DSA | AGENTS | VIBE**  
-🌱 Exploring: **Transformers, RUST for HFT, AgentOps**  
-🧠 Obsessed with: **ML cognition, dev productivity, futuristic web apps**
+🔭 Currently working on: **Agents and System Design**  
+🌱 Exploring: **RUST and Redis**  
+🧠 Obsessed with: **Vibe 😭**
 
 ---
 
