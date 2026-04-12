@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
 </a>
 ---
-<!--
+
 
 ## 📊 GitHub Stats
 
