@@ -26,9 +26,6 @@
 <a href="mailto:amandeep.singh.dsc@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://amandeepxsingh.tech">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
-</a>
 
 </div>
 
@@ -116,12 +113,11 @@
 
 ---
 
-## ✍️ Latest Articles
+## Must Visit
 
-[![](https://img.shields.io/badge/Dynamic%20Feed-Medium-000000?logo=medium&labelColor=12100E)](https://medium.com/@me.amandeep.29)
-
-📝 [Hallucination of Hallucination](https://medium.com/@amandeepxsingh/hallucination-of-hallucination-0a60d18eccef)
-
+<a href="https://amandeepxsingh.tech">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
+</a>
 ---
 <!--
 
