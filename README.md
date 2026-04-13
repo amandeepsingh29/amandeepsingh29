@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 👋 Hey there! I'm Amandeep  
+## 👋 Hey Buds! I'm Amandeep  
 
 🚀 Software Developer 👀  
 🔭 Currently working on: **Agents and System Design** 🥸   
