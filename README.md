@@ -123,7 +123,6 @@
 💌 I build AI agents to manage my own email  
 🧠 I visualize transformer layers like human brain lobes  
 🤝 I use AI as a co-pilot, not a replacement  
-⚙️ I automate my life using `n8n` and `Python`
 
 <h2> Quote Close to My ❤️ </h2>
 
