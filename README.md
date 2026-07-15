@@ -9,8 +9,9 @@
 🚀 Software Engineer who loves building scalable systems. 🕷️  
 🎓 B.E. in Computer Science @ Thapar Institute (CGPA: 9.42)  
 💼 Currently swinging at: **Oracle** as a Software Developer Intern (Elastic Charging Engine Team)  
-🔭 Always exploring: **System Design, Architecture, and AI** 🥸   
+🔭 Always exploring: **System Design, Architecture, AI, and Cloud DevOps** 🥸   
 🕸️ Shooting webs at: **RUST, Redis, and High-Frequency Trading** 🤭  
+📖 Current Read: **Database Internals**
 
 ---
 
@@ -20,6 +21,9 @@
 
 <a href="https://linkedin.com/in/amandeepsinghx/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/amandeepxsingh">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://amandeepxsingh.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
@@ -89,7 +93,7 @@
 
 ---
 
-## 🏢 Web-Slinging Experience
+## 🏢 Web-Slinging Experience (Work & Education)
 
 - **Software Developer Intern @ Oracle** (Jan 2026 - Present)
   - Elastic Charging Engine Team | Enterprise software solutions
@@ -97,24 +101,49 @@
   - Focused on code efficiency and new system features
 - **Research Intern @ EL Centre** (June 2023 - July 2023)
   - In-depth technical research and analyzing complex problems
+- **Bachelor of Engineering in CS @ Thapar Institute** (2022 - 2026)
+  - CGPA: 9.42 | Advanced CS principles, software engineering, and system design
+- **Senior Secondary (Non-Medical) @ BCM Senior Secondary School** (2020 - 2022)
+  - Graduated with 94% aggregate (Physics, Chemistry, Math)
 
 ---
 
 ## 🕸️ Spider-Tech Projects
 
-- 🦸‍♂️ [**mints**](https://github.com/amandeepsingh29/mints) - *Vent. Confess. Heal. Disappear.* (JavaScript)
-- 🚀 [**RateLimiter**](https://github.com/amandeepsingh29/RateLimiter) - System design outlook (Spring Boot + Redis + Lua)
-- 🎥 [**VideoSuperResolution**](https://github.com/amandeepsingh29/VideoSuperResolution) - (Python)
-- ⚡ [**AstraCDN**](https://github.com/amandeepsingh29/AstraCDN) - (Go)
+| 🦸‍♂️ Name | 📝 Description | 🚀 Tech |
+| :--- | :--- | :--- |
+| [**mints**](https://github.com/amandeepsingh29/mints) | Vent. Confess. Heal. Disappear. | JavaScript |
+| [**RateLimiter**](https://github.com/amandeepsingh29/RateLimiter) | System design outlook for rate limiting | Spring Boot + Redis + Lua |
+| [**VideoSuperResolution**](https://github.com/amandeepsingh29/VideoSuperResolution) | ML tool for enhancing video resolution | Python |
+| [**AstraCDN**](https://github.com/amandeepsingh29/AstraCDN) | A custom Content Delivery Network | Go |
+| [**centrestage**](https://github.com/amandeepsingh29/centrestage) | Python-based utility/service | Python |
+| [**SCALPEL**](https://github.com/amandeepsingh29/SCALPEL) | Machine Learning insights | Python + PyTorch |
+| [**SecureCodeAuditor**](https://github.com/amandeepsingh29/SecureCodeAuditor) | Auditing and securing code pipelines | Jupyter Notebook |
+| [**MovieMatch**](https://github.com/amandeepsingh29/MovieMatch) | Recommender/matching system for movies | JavaScript |
+| [**SpeechBiometricsSystem**](https://github.com/amandeepsingh29/SpeechBiometricsSystem) | Advanced ML Speech Biometrics | Python + PyTorch |
+| [**TracePulse**](https://github.com/amandeepsingh29/TracePulse) | Trace monitoring app | React |
+| [**GenBlog**](https://github.com/amandeepsingh29/GenBlog) | Generative blogging application | Python |
+| [**ScrapeWise**](https://github.com/amandeepsingh29/ScrapeWise) | Smart web scraping system | Python |
 
 ---
 
-## ✍️ Daily Bugle Editorials (Top Blogs)
+## ✍️ Daily Bugle Editorials (My Blogs)
 
-- 📰 [The Rate Limiter: System Design Outlook](https://amandeepxsingh.medium.com/the-rate-limiter-system-design-outlook-94b159781b0f)
-- 📈 [Welcome to the Speed Wars of Wall Street: How High-Frequency Trading is Redefining Finance](https://amandeepxsingh.medium.com/welcome-to-the-speed-wars-of-wall-street-how-high-frequency-trading-is-redefining-finance-f46bb87d8fb7)
-- 🤖 [Neuralink Summer 2025: When Mind Meets Machine](https://amandeepxsingh.medium.com/)
-- 🧠 [From CAM to Grad-CAM: How We Make AI Decisions Less Mysterious](https://amandeepxsingh.medium.com/)
+- 📰 [The Rate Limiter: System Design Outlook](https://amandeepxsingh.medium.com/the-rate-limiter-system-design-outlook-94b159781b0f) *(Jan 2026)*
+- 📈 [Welcome to the Speed Wars of Wall Street: How High-Frequency Trading is Redefining Finance](https://amandeepxsingh.medium.com/welcome-to-the-speed-wars-of-wall-street-how-high-frequency-trading-is-redefining-finance-f46bb87d8fb7) *(Jul 2025)*
+- 🌀 [Hallucination of Hallucination](https://amandeepxsingh.medium.com/) *(Jul 2025)*
+- 🤖 [Neuralink Summer 2025: When Mind Meets Machine](https://amandeepxsingh.medium.com/) *(Jul 2025)*
+- 🌌 [Understanding Hilbert Space: A Window into Quantum Mechanics and Beyond](https://amandeepxsingh.medium.com/) *(Jan 2025)*
+- 🧠 [From CAM to Grad-CAM: How We Make AI Decisions Less Mysterious](https://amandeepxsingh.medium.com/) *(Jan 2025)*
+- 🔐 [What exactly is SHA-256? Investigating the Secure Hash Algorithm 256](https://amandeepxsingh.medium.com/) *(Jun 2024)*
+
+---
+
+## 📚 The Parker Mind (Papers & Articles Enjoyed)
+
+- 📜 [Attention Is All You Need - Transformer Architecture](https://arxiv.org/pdf/1706.03762)
+- 🐘 [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql/)
+- 🎥 [FFmpeg at Meta: Media Processing at Scale](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/)
 
 ---
 
