@@ -37,10 +37,9 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandeepsingh29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Amandeep's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+[![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandeepsingh29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
 
 ---
 
