@@ -37,9 +37,9 @@
 
 ### 📊 GitHub Stats
 
-[![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandeepsingh29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
+[![Amandeep's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amandeepsingh29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandeepsingh29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/amandeepsingh29)
 
 ---
 
