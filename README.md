@@ -1,21 +1,21 @@
 <p align="center">
-  <img width="1000" alt="Banner" src="https://github.com/amandeepsingh29/amandeepsingh29/blob/main/b.png">
+  <img width="1000" alt="Spider-Dev Banner" src="./spidey_dev_banner.png">
 </p>
 
 <div align="center">
 
-## 👋 Hey Buds! I'm Amandeep  
+## 👋 Hey True Believers! I'm Amandeep, Your Friendly Neighborhood Developer 🕸️
 
-🚀 Software Developer 👀  
-🔭 Currently working on: **Agents and System Design** 🥸   
-🌱 Exploring: **RUST and Redis** 🤭  
-🧠 Obsessed with: **Vibe 😭**
+🚀 Software Developer 🕷️  
+🔭 Currently swinging through: **Agents and System Design** 🥸   
+🕸️ Shooting webs at: **RUST and Redis** 🤭  
+🧠 Spidey-sense tingling for: **Vibe 😭**
 
 ---
 
 <div align="center">
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me (The Web-verse)
 
 <a href="https://linkedin.com/in/amandeepsinghx/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
@@ -32,14 +32,14 @@
 
 ---
 
-<img src="https://media4.giphy.com/media/TBf2czxR420jCORE0o/giphy.gif" width="300" alt="cool dev gif">
+<img src="https://media.giphy.com/media/kKzFYlqCv7y7K/giphy.gif" width="300" alt="spidey typing gif">
 
 ---
 
 
 <div align="center">
 
-## 💻 Tech Stack
+## 💻 Tech Stack Suit
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
@@ -105,20 +105,20 @@
 
 ---
 
-## 🧠 Currently Working On
+## 🕸️ Daily Bugle Updates (Currently Working On)
 
-🤖 Building Superhuman Memory Agent  
-🦀 Learning Rust for High-Frequency Trading  
+🤖 Building Superhuman Memory Agent (My own Iron Spider suit)  
+🦀 Learning Rust for High-Frequency Trading (Web fluid optimizations)  
 ✍️ Writing according to my curiosity levels
 
-## Must Visit
+## 🦸‍♂️ Must Visit
 
 <a href="https://amandeepxsingh.tech">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
 </a>
 
 
-## 💬 Fun Facts
+## 🕷️ Spidey Secrets (Fun Facts)
 
 💌 I build AI agents to manage my own email  
 🧠 I visualize transformer layers like human brain lobes  
@@ -126,10 +126,9 @@
 
 <h2> Quote Close to My ❤️ </h2>
 
-<em>"Good Things Take Time"</em>  
+<em>"With great power comes great responsibility... and good things take time"</em>  
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandeepsingh29&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=amandeepsingh29&label=Profile%20Views&color=e23636&style=flat-square" alt="Visitor Badge" />
 </p>
-
