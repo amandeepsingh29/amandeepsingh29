@@ -1,15 +1,16 @@
 <p align="center">
-  <img width="1000" alt="Spider-Dev Banner" src="./spidey_dev_banner.png">
+  <img width="1000" alt="Spider-Dev Banner" src="./image.png">
 </p>
 
 <div align="center">
 
 ## 👋 Hey True Believers! I'm Amandeep, Your Friendly Neighborhood Developer 🕸️
 
-🚀 Software Developer 🕷️  
-🔭 Currently swinging through: **Agents and System Design** 🥸   
-🕸️ Shooting webs at: **RUST and Redis** 🤭  
-🧠 Spidey-sense tingling for: **Vibe 😭**
+🚀 Software Engineer who loves building scalable systems. 🕷️  
+🎓 B.E. in Computer Science @ Thapar Institute (CGPA: 9.42)  
+💼 Currently swinging at: **Oracle** as a Software Developer Intern (Elastic Charging Engine Team)  
+🔭 Always exploring: **System Design, Architecture, and AI** 🥸   
+🕸️ Shooting webs at: **RUST, Redis, and High-Frequency Trading** 🤭  
 
 ---
 
@@ -36,7 +37,6 @@
 
 ---
 
-
 <div align="center">
 
 ## 💻 Tech Stack Suit
@@ -52,68 +52,75 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
 
 <!-- Web & UI -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
 
 <!-- Backend & DevOps -->
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/render-46E3B7.svg?style=flat&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white" />
+<img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
 
 <!-- Databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 
 <!-- ML & Data -->
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white" />
-<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" />
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white" />
-<img src="https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green" />
 
 </div>
 
-<!-- Add more from your stack -->
 
 ---
 
-## 🕸️ Daily Bugle Updates (Currently Working On)
+## 🏢 Web-Slinging Experience
 
-🤖 Building Superhuman Memory Agent (My own Iron Spider suit)  
-🦀 Learning Rust for High-Frequency Trading (Web fluid optimizations)  
-✍️ Writing according to my curiosity levels
+- **Software Developer Intern @ Oracle** (Jan 2026 - Present)
+  - Elastic Charging Engine Team | Enterprise software solutions
+- **Software Developer Intern @ ProAEC** (May 2025 - July 2025)
+  - Focused on code efficiency and new system features
+- **Research Intern @ EL Centre** (June 2023 - July 2023)
+  - In-depth technical research and analyzing complex problems
+
+---
+
+## 🕸️ Spider-Tech Projects
+
+- 🦸‍♂️ [**mints**](https://github.com/amandeepsingh29/mints) - *Vent. Confess. Heal. Disappear.* (JavaScript)
+- 🚀 [**RateLimiter**](https://github.com/amandeepsingh29/RateLimiter) - System design outlook (Spring Boot + Redis + Lua)
+- 🎥 [**VideoSuperResolution**](https://github.com/amandeepsingh29/VideoSuperResolution) - (Python)
+- ⚡ [**AstraCDN**](https://github.com/amandeepsingh29/AstraCDN) - (Go)
+
+---
+
+## ✍️ Daily Bugle Editorials (Top Blogs)
+
+- 📰 [The Rate Limiter: System Design Outlook](https://amandeepxsingh.medium.com/the-rate-limiter-system-design-outlook-94b159781b0f)
+- 📈 [Welcome to the Speed Wars of Wall Street: How High-Frequency Trading is Redefining Finance](https://amandeepxsingh.medium.com/welcome-to-the-speed-wars-of-wall-street-how-high-frequency-trading-is-redefining-finance-f46bb87d8fb7)
+- 🤖 [Neuralink Summer 2025: When Mind Meets Machine](https://amandeepxsingh.medium.com/)
+- 🧠 [From CAM to Grad-CAM: How We Make AI Decisions Less Mysterious](https://amandeepxsingh.medium.com/)
+
+---
 
 ## 🦸‍♂️ Must Visit
 
-<a href="https://amandeepxsingh.tech">
+<a href="https://amandeepsinghxd.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=about.me&logoColor=white" />
 </a>
 
