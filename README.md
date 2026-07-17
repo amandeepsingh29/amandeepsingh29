@@ -4,8 +4,8 @@
 
 🚀 **Software Engineer | System Design Enthusiast | Web-Slinger** 🕷️
 
-💼 **Ex-Software Developer Intern @ Oracle** (Elastic Charging Engine Team)  
-🎓 **B.E. in Computer Science @ Thapar Institute**  
+💼 **Ex-Engineering @ Oracle** (Elastic Charging Engine Team)  
+🎓 **B.E. in Computer Science @ Thapar University**  
 🔭 Always exploring: **System Design, Architecture, AI, and Cloud DevOps** 🥸   
 🕸️ Shooting webs at: **RUST, Redis, and High-Frequency Trading** 🤭  
 📖 Current Read: **Database Internals**
