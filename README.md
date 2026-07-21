@@ -30,9 +30,6 @@
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about.me&logoColor=white" />
 </a>
 
-<br><br>
-<img src="https://media.giphy.com/media/kKzFYlqCv7y7K/giphy.gif" width="200" alt="spidey typing gif">
-
 ---
 
 ### 📊 GitHub Stats
