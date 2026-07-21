@@ -74,25 +74,6 @@
 
 ---
 
-### 🕸️ Spider-Tech Projects
-
-| 🦸‍♂️ Name | 📝 Description | 🚀 Tech |
-| :--- | :--- | :--- |
-| [**mints**](https://github.com/amandeepsingh29/mints) | Vent. Confess. Heal. Disappear. | JavaScript |
-| [**RateLimiter**](https://github.com/amandeepsingh29/RateLimiter) | System design outlook for rate limiting | Spring Boot + Redis + Lua |
-| [**VideoSuperResolution**](https://github.com/amandeepsingh29/VideoSuperResolution) | ML tool for enhancing video resolution | Python |
-| [**AstraCDN**](https://github.com/amandeepsingh29/AstraCDN) | A custom Content Delivery Network | Go |
-| [**centrestage**](https://github.com/amandeepsingh29/centrestage) | Python-based utility/service | Python |
-| [**SCALPEL**](https://github.com/amandeepsingh29/SCALPEL) | Machine Learning insights | Python + PyTorch |
-| [**SecureCodeAuditor**](https://github.com/amandeepsingh29/SecureCodeAuditor) | Auditing and securing code pipelines | Jupyter Notebook |
-| [**MovieMatch**](https://github.com/amandeepsingh29/MovieMatch) | Recommender/matching system for movies | JavaScript |
-| [**SpeechBiometricsSystem**](https://github.com/amandeepsingh29/SpeechBiometricsSystem) | Advanced ML Speech Biometrics | Python + PyTorch |
-| [**TracePulse**](https://github.com/amandeepsingh29/TracePulse) | Trace monitoring app | React |
-| [**GenBlog**](https://github.com/amandeepsingh29/GenBlog) | Generative blogging application | Python |
-| [**ScrapeWise**](https://github.com/amandeepsingh29/ScrapeWise) | Smart web scraping system | Python |
-
----
-
 ### ✍️ Daily Bugle Editorials (My Blogs)
 
 - 📰 [The Rate Limiter: System Design Outlook](https://amandeepxsingh.medium.com/the-rate-limiter-system-design-outlook-94b159781b0f) *(Jan 2026)*
